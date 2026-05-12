@@ -57,6 +57,7 @@
 外出先や移動中の勉強に役立つでしょう。
 
 > **個人メモ:** Ankiデッキは毎日少しずつ（20〜30枚程度）復習するのが効果的です。一度に大量にやるより継続が大切。
+> また、新しいカードは1日10枚以下に抑えると、復習の負担が増えすぎず長続きしやすいです。
 
 ### コーディング技術課題用の問題: 練習用インタラクティブアプリケーション
 
@@ -67,6 +68,4 @@
   <br/>
 </p>
 
-姉妹リポジトリの [**Interactive Coding Challenges**](https://github.com/donnemartin/interactive-coding-challenges)も見てみてください。追加の暗記デッキカードも入っています。
-
-* [Coding deck](https://github.com/donnemartin/interactive-c
+姉妹リポジトリの [**Interactive Coding Challenges**](https://github.com/donnemartin/interactive-coding-challenges)も見てみてください。追加の暗記デッキカードも入って
